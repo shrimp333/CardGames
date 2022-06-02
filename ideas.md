@@ -1,0 +1,1 @@
+- instead of dealerPos which i have in HoldemTable rn i could instead "rotate" the list of players in the main program

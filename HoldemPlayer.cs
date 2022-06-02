@@ -8,9 +8,9 @@ namespace CardGames
         {
             isFolded = false;
         }
-        public override void fold()
+        public void fold()
         {
-            isFolded = true;
+            this.isFolded = true;
         }
         public bool bet(int i, HoldemTable table)
         {

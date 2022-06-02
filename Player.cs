@@ -11,6 +11,5 @@ namespace CardGames
             this.name = name;
             this.funds = funds;
         }
-        public abstract void fold();
     }
 }
